@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\bin\Debug\net8.0\8PuzzleAStar.exe
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\bin\Debug\net8.0\8PuzzleAStar.deps.json
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\bin\Debug\net8.0\8PuzzleAStar.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\bin\Debug\net8.0\8PuzzleAStar.dll
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\bin\Debug\net8.0\8PuzzleAStar.pdb
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.dll
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\refint\8PuzzleAStar.dll
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.pdb
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\8PuzzleAStar.genruntimeconfig.cache
+C:\Users\kevin\OneDrive\Documentos\C#\8PuzzleAStar\obj\Debug\net8.0\ref\8PuzzleAStar.dll
